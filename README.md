@@ -43,7 +43,7 @@ Random list of things to improve
 
 ## Changelog
 
-* 10/27/2012 - Inial release
+* 10/27/2012 - Initial release
 
 ## License
 
